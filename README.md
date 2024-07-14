@@ -5,7 +5,7 @@ This repository is the code for paper "Biased Backpressure Routing Using Link Fe
 - Zhongyuan Zhao, Gunjan Verma, Ananthram Swami, Santiago Segarra, " Enhanced Backpressure with Wireless Link Features," IEEE CAMSAP 2023, Herradura, Costa Rica, 2023, pp. 271-275, doi: 10.1109/CAMSAP58249.2023.10403470.
 - Zhongyuan Zhao, Bojan Radojičić, Gunjan Verma, Ananthram Swami, Santiago Segarra, " Delay-aware Backpressure Routing Using Graph Neural Networks," IEEE ICASSP 2023, Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10095267.
 
-Additional test results supplemental to the manuscript will be added here.
+Additional test results supplemental to the journal paper can be found [here](/doc/supplement.pdf).
 
 ## Abstract
 
