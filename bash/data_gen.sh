@@ -1,5 +1,6 @@
 #!/bin/bash
 
+source .venv/bin/activate ;
 
 gtype='poisson'
 datapath="./data/data_poisson_train"
@@ -18,3 +19,5 @@ echo "submit task ${datapath}";
 python3.9 src/data_generation_poisson.py --datapath=${datapath} --gtype=${gtype} --size=${size} --seed=${seed} --m=12;
 
 echo "Done"
+
+deactivate;
